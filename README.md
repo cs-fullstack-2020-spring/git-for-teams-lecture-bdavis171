@@ -40,3 +40,5 @@
 * communicate with your team
 * `git pull origin master` before making any changes on your branch and after each push
 * push local changes from your branch often (smaller pull request are better) 
+
+* Hello there
